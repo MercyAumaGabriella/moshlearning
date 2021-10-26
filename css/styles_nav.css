@@ -1,0 +1,21 @@
+ul{
+    list-style-type: none;
+}
+
+table, 
+td, 
+th {
+    border: 1px solid grey;
+    border-collapse: collapse;
+}
+tfoot{
+    text-align: left;
+}
+img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+.highlight{
+    background-color: yellow;
+}

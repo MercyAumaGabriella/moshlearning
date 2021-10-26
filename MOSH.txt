@@ -1,0 +1,16 @@
+94784569
+
+Zencoding
+ -ol>li*3
+
+description lists to implement glossaries and meta data
+dl - decription list, dt - description term, dd - description data
+
+TABLES
+-- Border-collapse: collapse;
+
+shift + up or down arrow - select multiple
+alt +up or down arrow - move content
+
+ctrl+ d = change tag
+shift+ alt + down arrow = duplicate code
